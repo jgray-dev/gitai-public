@@ -1,5 +1,9 @@
 # Gitai
 
+This project is supposed to encourage frequent git commit's by reducing the work required for proper git management. after setting up the binary correctly, type "gitai" from any git project, and watch modified files automatically get commit messages. It uses the git diff output to be parsed by Claude Sonnet 3.5 to create the message. Bugs are known to happen, and it is what it is :) it idsplays the messages created in the console, and at the end of the day, its the user's responsibility to make proper git commit messages :P 
+
+
+****
 
 This is my first ever Rust project, so its not exactly great, but it was done in a couple hours off a random thought, and I'm happy with how it turned out.
 
